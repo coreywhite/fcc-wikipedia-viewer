@@ -1,5 +1,5 @@
 # fcc-wikipedia-viewer
-Free Code Camp - Intermedia Front End Project - Wikipedia Viewer
+Free Code Camp - Intermediate Front End Project - Wikipedia Viewer
 
 Made for Free Code Camp.
 
